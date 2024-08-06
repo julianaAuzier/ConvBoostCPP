@@ -1,9 +1,7 @@
 # `Master's research`
 Master's research developed at the Faculdade de Computação (FACOMP) of the Instituto de Ciências Exatas e Naturais (ICEN) of the Universidade Federal do Pará (UFPA).
 
-See paper:
-
-https://doi.org/10.1371/journal.pone.0305253
+Paper available at https://doi.org/10.1371/journal.pone.0305253
 
 ## Basic information
 
