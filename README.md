@@ -1,13 +1,13 @@
 # `Master's research`
 Master's research developed at the Faculdade de Computação (FACOMP) of the Instituto de Ciências Exatas e Naturais (ICEN) of the Universidade Federal do Pará (UFPA).
 
-Paper available at https://doi.org/10.1371/journal.pone.0305253
+Paper available at [DOI.](https://doi.org/10.1371/journal.pone.0305253)
 
 ## Basic information
 
 - **Course:** Master's degree in Computer Science
 - **Defense date:** June 27st, 2024 @ 10:00 AM.
-- **Title:** Investigando Peptídeos de Penetração Celular com Deep Learning explorando descritores moleculares baseados em sequência e estrutura.
+- **Title:** [Investigando Peptídeos de Penetração Celular com Deep Learning explorando descritores moleculares baseados em sequência e estrutura.](https://drive.google.com/file/d/19fDxIjXqhp7hGfoHONxSpYryhZ3TI03F/view)
 
 ## Abstract
 
